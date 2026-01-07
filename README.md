@@ -21,5 +21,5 @@ I’m an IT student with a big dream — to understand computers so well that th
 
 
 - 📫 How to reach me: ...srushtichauhan2006@gmail.com
--📩<img width="20" height="20" alt="linkedin" src="https://github.com/user-attachments/assets/1d35d7a4-2fbb-464d-9692-db8abb9e8bf4" />
+-<img width="20" height="20" alt="linkedin" src="https://github.com/user-attachments/assets/1d35d7a4-2fbb-464d-9692-db8abb9e8bf4" />
 https://www.linkedin.com/in/srushtichauhan/
