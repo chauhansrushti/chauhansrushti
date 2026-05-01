@@ -1,7 +1,7 @@
 ## Hi there, I am Srushti👋
 Aspiring | Tech Explorer | Problem Solver | 💻 IT Student✨
 
-🔭 Currently exploring the world of **Web Development**, **APIs**, and **AI**.  
+🔭 Currently exploring the world of **Web Development**,**APIs**,**Data science** and **AI**.  
 
 🌱 Every day, I’m trying to turn “why doesn’t this work?” into “ohh… that’s why!” moments.  
 
